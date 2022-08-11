@@ -7860,21 +7860,6 @@ button.close {
     display: none !important
 }
 
-.citation {
-    font-size: 18px;
-}
-
-.description {
-    font-style: italic;
-    font-size: 18px;
-}
-
-.presentation {
-    opacity: 0.9;
-    margin: 0px;
-    font-size: 17px;
-}
-
 @media (max-width:767px) {
     .visible-xs {
         display: block !important
