@@ -835,11 +835,8 @@ h4 {
 }
 
 .presentation {
-    opacity: 0.9;
-    margin: 0px;
     font-size: 17px;
 }
-
 
 @media (max-width: 1024px) {
     .bloc {
